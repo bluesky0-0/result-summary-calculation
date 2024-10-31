@@ -1,0 +1,3 @@
+<button><img src="images/icon-memory.svg" alt="">Memory</button>
+        <button><img src="images/icon-verbal.svg" alt="">Verbal</button>
+        <button><img src="images/icon-visual.svg" alt="">Visual</button>

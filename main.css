@@ -1,3 +1,27 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+  .upper-color{
+    background: linear-gradient(
+      
+      180deg,       
+    #5533ff 0%,      
+    #4464ff 50%,    
+    #1963ec 100%
+      
+    );
+  }
+    .circle-color{
+        background: linear-gradient(
+          
+          180deg,       
+             
+          
+          #5A4FFF 20%,      
+          #1963ec 100%
+          
+        );
+
+  }
